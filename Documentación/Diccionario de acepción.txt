@@ -1,0 +1,59 @@
+DDoS (Distributed Denial of Service): Ataque informático que busca interrumpir o desactivar un servicio en línea al inundarlo con tráfico de datos desde múltiples fuentes.
+
+HTTP (HyperText Transfer Protocol): Protocolo utilizado para la transferencia de información en la web. Se usa para cargar páginas web a través de navegadores.
+
+DNS (Domain Name System): Sistema que traduce los nombres de dominio legibles por los humanos (como www.pagina.com) en direcciones IP numéricas que las computadoras utilizan para conectarse entre sí.
+
+SYN Flood: Tipo de ataque DDoS que explota la naturaleza del protocolo TCP. Consiste en enviar una gran cantidad de solicitudes SYN (para iniciar una conexión) sin completar el proceso, lo que puede saturar el servidor.
+
+UDP (User Datagram Protocol): Protocolo de comunicación utilizado en redes para enviar mensajes sin establecer una conexión previa, a diferencia de TCP. Es más rápido, pero menos fiable.
+
+Flooding: Técnica utilizada en ciberataques, especialmente DDoS, que implica inundar un sistema o red con un volumen masivo de tráfico para sobrecargarlo.
+
+TCP (Transmission Control Protocol): Protocolo que asegura la entrega de datos de manera fiable a través de la red. Se encarga de dividir los datos en paquetes y asegurarse de que lleguen correctamente al destino.
+
+Botnet: Red de dispositivos infectados con malware, controlados remotamente por un atacante para realizar actividades maliciosas, como ataques DDoS o envío de spam.
+
+Port (Puerto): Número que identifica un servicio específico en una red. Los puertos permiten que múltiples servicios se ejecuten simultáneamente en una misma dirección IP.
+
+Flow (Flujo): Secuencia de paquetes que se envían entre dos puntos de una red y que comparten ciertas características, como la dirección IP de origen y destino, el puerto de origen y destino, y el protocolo de transporte.
+
+Fwd (Forward): Paquetes enviados desde el cliente (origen) hacia el servidor (destino) en un flujo de red.
+
+Bwd (Backward): Paquetes enviados desde el servidor (destino) de vuelta al cliente (origen) en un flujo de red.
+
+Packet (Paquete): Unidad básica de transmisión de datos en una red de computadoras. Contiene los datos que se desean transmitir junto con la información de enrutamiento necesaria.
+
+Length (Longitud): Se refiere al tamaño de un paquete o flujo de datos, generalmente medido en bytes.
+
+Mean (Promedio): Valor que representa el promedio de una serie de datos, como el tamaño promedio de los paquetes o la tasa de transferencia de datos.
+
+Max (Máximo): El valor más alto o grande en un conjunto de datos, como el tamaño máximo de un paquete o el número máximo de paquetes transmitidos.
+
+Min (Mínimo): El valor más bajo o pequeño en un conjunto de datos, como el tamaño mínimo de un paquete o el número mínimo de paquetes transmitidos.
+
+Flag (Bandera): Indicador en un paquete que tiene un significado específico en los protocolos de red, como SYN, ACK, FIN, etc. Estos "flags" controlan cómo se manejan las conexiones de red.
+
+ACK (Acknowledgement): Bandera en el protocolo TCP que indica que un paquete ha sido recibido correctamente.
+
+PSH (Push): Bandera en el protocolo TCP que indica que los datos deben ser enviados inmediatamente a la aplicación receptora sin esperar a más datos.
+
+URG (Urgent): Bandera en el protocolo TCP que señala que los datos son urgentes y deben ser procesados con prioridad.
+
+RST (Reset): Bandera en el protocolo TCP que indica que una conexión debe ser restablecida debido a un error o un cierre abrupto.
+
+FIN (Finish): Bandera en el protocolo TCP que indica que una conexión está a punto de cerrarse, señalando el final de la transmisión de datos.
+
+Packet/s (Paquetes por segundo): Métrica que indica cuántos paquetes son enviados o recibidos en un segundo, útil para medir la intensidad de un flujo de red.
+
+Bytes (Bytes): Unidad básica de información digital. Un byte está compuesto por 8 bits y generalmente se usa para medir el tamaño de los paquetes de datos.
+
+IAT (Inter-Arrival Time): Tiempo entre la llegada de dos paquetes consecutivos en un flujo de red. Se mide en microsegundos (µs) y es un indicador clave para detectar patrones anómalos.
+
+Duration (Duración): Tiempo total que un flujo de red permanece activo, desde el inicio hasta el final del flujo.
+
+Header (Cabecera): Parte de un paquete de datos que contiene información sobre cómo debe ser procesado el paquete, como direcciones IP de origen y destino, puertos y flags.
+
+Session (Sesión): Conjunto de interacciones entre dos dispositivos a lo largo de un periodo de tiempo. En el contexto de redes, una sesión puede involucrar múltiples flujos de datos entre el cliente y el servidor.
+
+Amplification (Amplificación): Técnica utilizada en ataques DDoS, como los de reflexión, donde un pequeño paquete de solicitud se convierte en una respuesta mucho más grande, amplificando el volumen del ataque.
