@@ -1,4 +1,4 @@
-# IDS - Detección de Ataques DDoS con Random Forest
+Proyecto Algoritmo de Detección de Ataques DDoS con Random Forest
 
 Este proyecto implementa un sistema de detección de intrusos (IDS) orientado a ataques **DDoS** utilizando un algoritmo de **Random Forest**. Fue desarrollado y probado en **Google Colab**, con tráfico real extraído desde archivos `.pcap`, procesado y analizado para inferencia.
 
