@@ -11,9 +11,9 @@ Está basado en el dataset [CIC-IDS2017](https://www.kaggle.com/datasets) public
 
 ##  Estructura del repositorio
 
-📁 Documentacion → Información del proyecto, conceptos y explicación técnica
-📁 GraficaAnalisis → Análisis exploratorio y visualizaciones
-📁 SniferV1 → Sniffer adaptado para leer archivos .pcap y generar features
+ Documentacion → Información del proyecto, conceptos y explicación técnica
+ GraficaAnalisis → Análisis exploratorio y visualizaciones
+ SniferV1 → Sniffer adaptado para leer archivos .pcap y generar features
 
 
 ---
