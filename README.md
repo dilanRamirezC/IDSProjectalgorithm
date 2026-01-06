@@ -9,7 +9,7 @@ Está basado en el dataset [CIC-IDS2017](https://www.kaggle.com/datasets) public
 
 ---
 
-## 📂 Estructura del repositorio
+##  Estructura del repositorio
 
 📁 Documentacion → Información del proyecto, conceptos y explicación técnica
 📁 GraficaAnalisis → Análisis exploratorio y visualizaciones
@@ -20,12 +20,12 @@ Está basado en el dataset [CIC-IDS2017](https://www.kaggle.com/datasets) public
 
 ## Funcionalidades implementadas
 
-- ✅ Lectura de archivos `.pcap` con PyShark
-- ✅ Extracción de features personalizados por flujo (bidireccionales)
-- ✅ Modelo de predicción con Random Forest
-- ✅ Gráficas comparativas y análisis de variables
-- ✅ Exportación de resultados a `.csv`
-- ✅ Trabajo totalmente en **Google Colab**
+-  Lectura de archivos `.pcap` con PyShark
+-  Extracción de features personalizados por flujo (bidireccionales)
+-  Modelo de predicción con Random Forest
+-  Gráficas comparativas y análisis de variables
+-  Exportación de resultados a `.csv`
+-  Trabajo totalmente en **Google Colab**
 
 ---
 
